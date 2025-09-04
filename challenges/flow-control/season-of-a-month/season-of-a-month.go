@@ -1,0 +1,5 @@
+package seasonofamonth
+
+func SeasonOfAMonth(){
+	
+}
